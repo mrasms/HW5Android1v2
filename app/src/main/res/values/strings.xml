@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HW5 Android 1</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="q_number">Question number</string>
+    <string name="back_to_main_menu">Back to main menu</string>
+</resources>
